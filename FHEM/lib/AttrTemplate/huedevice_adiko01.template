@@ -1,5 +1,5 @@
 ###########################################
-# $Id: huedevice_adiko01.template 28325 2025-02-01 05:14:31Z Beta-User $
+# $Id: huedevice_adiko01.template 28325 2025-02-11 14:30:31Z Beta-User $
 #
 # Bases on huedevice.template 28325 2023-12-30 05:14:31Z Beta-User $
 #
@@ -23,4 +23,21 @@ attr DEVICE eventMap 1002:OnePress\
 1003:LongPress\
 1004:DoublePress
 attr DEVICE icon taster
+setreading DEVICE attrTemplateVersion Sonoff_Zigbee_SNZB01_Button_20250201
+
+###########################################
+# Xiaomi/Aquara WRS-R02 Wireless Remote Switch H1 Double Rocker
+name:Xiaomi_Aqara_WRSR02_Switch_H1
+filter:TYPE=HUEDevice
+desc: Produktname: Wireless Remote Switch H1 Double Rocker
+order:G_01
+par:ICON;ICON as set, defaults to taster;{ AttrVal('DEVICE','icon','taster_ch') }
+attr DEVICE icon ICON
+attr DEVICE eventMap 1002:LeftOnePress\
+1003:LeftLongPress\
+1004:LeftDoublePress\
+2002:RightOnePress\
+2003:RightLongPress\
+2004:RightDoublePress
+attr DEVICE icon taster_ch
 setreading DEVICE attrTemplateVersion Sonoff_Zigbee_SNZB01_Button_20250201

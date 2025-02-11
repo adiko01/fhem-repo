@@ -40,4 +40,4 @@ attr DEVICE eventMap 1002:LeftOnePress\
 2003:RightLongPress\
 2004:RightDoublePress
 attr DEVICE icon taster_ch
-setreading DEVICE attrTemplateVersion Sonoff_Zigbee_SNZB01_Button_20250201
+setreading DEVICE attrTemplateVersion Xiaomi_Aqara_WRSR02_Switch_H1_20250211

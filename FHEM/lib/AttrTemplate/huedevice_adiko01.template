@@ -1,5 +1,5 @@
 ###########################################
-# $Id: huedevice_adiko01.template 28325 2025-02-11 14:30:31Z Beta-User $
+# $Id: huedevice_adiko01.template 28325 2025-02-27 17:27:31Z Beta-User $
 #
 # Bases on huedevice.template 28325 2023-12-30 05:14:31Z Beta-User $
 #
@@ -41,3 +41,23 @@ attr DEVICE eventMap 1002:LeftOnePress\
 2004:RightDoublePress
 attr DEVICE icon taster_ch
 setreading DEVICE attrTemplateVersion Xiaomi_Aqara_WRSR02_Switch_H1_20250211
+
+###########################################
+# RTX TS0044
+name:BETA_RTX_TS0044
+filter:TYPE=HUEDevice
+desc: Produktname: Fernbedienungsschalter 12 Szene 4 P ZigBee Tuya schwarz - ASIN: B0CDVLZMWN
+order:G_01
+attr DEVICE eventMap 1002:B1OnePress\
+1003:B1LongPress\
+1004:B1DoublePress\
+2002:B2OnePress\
+2003:B2LongPress\
+2004:B2DoublePress\
+3002:B3OnePress\
+3003:B3LongPress\
+3004:B3DoublePress\
+4002:B4OnePress\
+4003:B4LongPress\
+4004:B4DoublePress\
+setreading DEVICE attrTemplateVersion RTX_TS0044_20250227

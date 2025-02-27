@@ -1,1 +1,1 @@
-UPD 2025-02-11_15:11:00 1714 FHEM/lib/AttrTemplate/huedevice_adiko01.template
+UPD 2025-02-27_17:27:31 2219 FHEM/lib/AttrTemplate/huedevice_adiko01.template

@@ -3,4 +3,4 @@ UPD 2025-02-28_08:46:26 2819 www/images/adiko01/taster_ch4.svg
 UPD 2025-02-28_08:46:26 3186 www/images/adiko01/taster_ch4_1.svg
 UPD 2025-02-28_08:46:26 3186 www/images/adiko01/taster_ch4_2.svg
 UPD 2025-02-28_08:46:26 3187 www/images/adiko01/taster_ch4_3.svg
-UPD 2025-02-28_08:46:26 3186 www/images/adiko01/taster_ch4_4.svg
+UPD 2025-02-28_08:46:30 3188 www/images/adiko01/taster_ch4_4.svg

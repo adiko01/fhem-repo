@@ -59,5 +59,18 @@ attr DEVICE eventMap 1002:B1OnePress\
 3004:B3DoublePress\
 4002:B4OnePress\
 4003:B4LongPress\
-4004:B4DoublePress\
-setreading DEVICE attrTemplateVersion RTX_TS0044_20250227
+4004:B4DoublePress
+attr DEVICE devStateIcon B1OnePress:taster_ch4_1\
+B1LongPress:taster_ch4_1\
+B1DoublePress:taster_ch4_1\
+B2OnePress:taster_ch4_2\
+B2LongPress:taster_ch4_2\
+B2DoublePress:taster_ch4_2\
+B3OnePress:taster_ch4_3\
+B3LongPress:taster_ch4_3\
+B3DoublePress:taster_ch4_3\
+B4OnePress:taster_ch4_4\
+B4LongPress:taster_ch4_4\
+B4DoublePress:taster_ch4_4
+attr DEVICE icon taster_ch4
+setreading DEVICE attrTemplateVersion RTX_TS0044_20250228BETA

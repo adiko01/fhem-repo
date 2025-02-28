@@ -1,4 +1,4 @@
-UPD 2025-02-28_09:34:17 2786 FHEM/lib/AttrTemplate/huedevice_adiko01.template
+UPD 2025-02-28_09:56:59 2818 FHEM/lib/AttrTemplate/huedevice_adiko01.template
 UPD 2025-02-28_08:46:26 2819 www/images/adiko01/taster_ch4.svg
 UPD 2025-02-28_08:46:26 3186 www/images/adiko01/taster_ch4_1.svg
 UPD 2025-02-28_08:46:26 3186 www/images/adiko01/taster_ch4_2.svg

@@ -46,7 +46,7 @@ setreading DEVICE attrTemplateVersion Xiaomi_Aqara_WRSR02_Switch_H1_20250211
 # RTX TS0044
 name:RTX_TS0044
 filter:TYPE=HUEDevice
-desc: Produktname: Fernbedienungsschalter 12 Szene 4 P ZigBee Tuya - ASIN: B0CDVLZMWN<br><a href="https://amzn.eu/d/dKzDQDf">Produktlink auf Amazon</a><br>Zum verwenden der Icons muss das WEB device auf den Ordner adiko01 zugreifen, <a href="https://github.com/adiko01/fhem-repo">weiteres hier</a>.
+desc: Produktname: Fernbedienungsschalter 12 Szene 4 P ZigBee Tuya - ASIN: B0CDVLZMWN<br><a href="https://amzn.eu/d/dKzDQDf" target="_blank">Produktlink auf Amazon</a><br>Zum verwenden der Icons muss das WEB device auf den Ordner adiko01 zugreifen, <a href="https://github.com/adiko01/fhem-repo" target="_blank">weiteres hier</a>.
 order:G_01
 attr DEVICE eventMap 1002:B1OnePress\
 1003:B1LongPress\

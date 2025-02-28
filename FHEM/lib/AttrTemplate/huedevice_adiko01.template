@@ -44,9 +44,9 @@ setreading DEVICE attrTemplateVersion Xiaomi_Aqara_WRSR02_Switch_H1_20250211
 
 ###########################################
 # RTX TS0044
-name:BETA_RTX_TS0044
+name:RTX_TS0044
 filter:TYPE=HUEDevice
-desc: Produktname: Fernbedienungsschalter 12 Szene 4 P ZigBee Tuya schwarz - ASIN: B0CDVLZMWN
+desc: Produktname: Fernbedienungsschalter 12 Szene 4 P ZigBee Tuya - ASIN: B0CDVLZMWN<br><a href="https://amzn.eu/d/dKzDQDf">Produktlink auf Amazon</a><br>Zum verwenden der Icons muss das WEB device auf den Ordner adiko01 zugreifen, <a href="https://github.com/adiko01/fhem-repo">weiteres hier</a>.
 order:G_01
 attr DEVICE eventMap 1002:B1OnePress\
 1003:B1LongPress\
@@ -73,4 +73,4 @@ B4OnePress:taster_ch4_4\
 B4LongPress:taster_ch4_4\
 B4DoublePress:taster_ch4_4
 attr DEVICE icon taster_ch4
-setreading DEVICE attrTemplateVersion RTX_TS0044_20250228BETA
+setreading DEVICE attrTemplateVersion RTX_TS0044_20250228

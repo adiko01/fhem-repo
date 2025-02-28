@@ -6,11 +6,11 @@ Dieses Repo beinhaltet eine kleine Auswahl an Icons und Templates für FHEM.
 ## Templates
 ### HUEDevice
 
-| Hersteller      | Typ    | Modellnummer | Modellname                              | Link | Bemerkung                         |
-|-----------------|--------|--------------|-----------------------------------------|------|-----------------------------------|
-| SONOFF          | Taster | SNZB01       |                                         |      | Leider vom Hersteller abgekündigt |
-| Xiaomi / Aquara | Taster | WRS-R02      | Wireless Remote Switch H1 Double Rocker |      |                                   |
-
+| Hersteller      | Typ    | Modellnummer        | Modellname                                      | Link                                                   | Bemerkung                         |
+|-----------------|--------|---------------------|-------------------------------------------------|--------------------------------------------------------|-----------------------------------|
+| SONOFF          | Taster | SNZB01              |                                                 |                                                        | Leider vom Hersteller abgekündigt |
+| Xiaomi / Aquara | Taster | WRS-R02             | Wireless Remote Switch H1 Double Rocker         |                                                        |                                   |
+| RTX             | Taster | Laut Phoscon TS0044 | Fernbedienungsschalter 12 Szene 4 P ZigBee Tuya | [https://amzn.eu/d/dKzDQDf](https://amzn.eu/d/dKzDQDf) |                                   | 
 
 # Icons
 

@@ -14,6 +14,9 @@ Dieses Repo beinhaltet eine kleine Auswahl an Icons und Templates für FHEM.
 
 # Icons
 
+Zum Benutzen der Icons muss zuvor der Ordner für die verwendung im WEB Device aktiviert werden, siehe [FHEM Wiki](https://wiki.fhem.de/wiki/Icons#Mehr_Icons_zur_Auswahl).
+Der Name des Ordners lautet `adiko01`
+
 | Iconname       | Beschreibung                                | Hinweis zum Urheberrecht                           |
 |----------------|---------------------------------------------|----------------------------------------------------|
 | `taster_ch4`   | Ein Taster mit 4 Tasten                     | Basiert auf taster_ch von Peter Selinger 2001-2007 |
